@@ -1,0 +1,33 @@
+.green {color: #43ba96;}
+.grey {color: #869bb8;}
+.black {color: #161c2d;}
+.bgBlack {background-color: #0e0e0e;}
+
+.h1-font-weight {
+    font-weight: 300
+}
+
+.p-font {
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.helvetica {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+.georgia {
+    font-family: Georgia, Times New Roman, serif;
+}
+
+.monaco {
+    font-family: Monaco, Courier New, monospace;
+}
+
+whiteBox {
+    background-color: #fff;
+    padding: 30px;
+    display: block;
+    width:fit-content;
+    align-self: center;
+}
